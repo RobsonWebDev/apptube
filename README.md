@@ -49,7 +49,6 @@ As bibliotecas que utilizamos foram:
 Flet e PyTubeFix
 ```
 
-
 <br>
 Para rodar o app:
 
@@ -58,6 +57,10 @@ Para rodar o app:
 ```
 flet run [dentro do diretório]
 ```
+<br>
+<h3>O Flet utilizamos para desenvolver o aplicativo utilizando python como liguagem de programação e o PyTubeFix para realizar consulta dos vídeos pela url, e possamos assim realizar o download em MP4 ou MP3, como preferir.
+
+<h2>Enjoey
 
 <br>
 <br>
