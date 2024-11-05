@@ -62,8 +62,8 @@ flet run [dentro do diretório]
 <br>
 <br>
 Aplicativo Funcionando:
+<br>
+<br>
+<br>
 
-<video width="340" height="640" controls autoplay>
-  <source src="assets/teste.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+![Demonstração do vídeo do app](assets/teste.gif)
