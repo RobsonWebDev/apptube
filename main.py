@@ -149,6 +149,9 @@ def main(page: ft.Page):
                 ys = yt.streams.get_audio_only()
                 output_path = './apptube/music'
             
+            # Realiza o download
+            file_path = ys.download(output_path=output_path)
+            
             # Concluído com sucesso
             status_text.value = "Download concluído!"
             progress_bar.value = 1.0
