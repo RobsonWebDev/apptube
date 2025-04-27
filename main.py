@@ -93,6 +93,7 @@ def main(page: ft.Page):
                     border_radius=10,
                     padding=15,
             )
+            
             page.controls.clear()
             page.add(container_main, txt_error)
             page.update()
@@ -126,7 +127,7 @@ def main(page: ft.Page):
     container_main = ft.Row(
             [
                 barra_de_busca,
-                pesquisar
+                pesquisar,
             ],
             alignment= 'center',
             

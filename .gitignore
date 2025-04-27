@@ -50,6 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+apptube/
 
 # Translations
 *.mo
@@ -148,6 +149,7 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+pytube.py
 
 # Cython debug symbols
 cython_debug/
